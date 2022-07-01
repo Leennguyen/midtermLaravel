@@ -35,7 +35,7 @@
         @endforeach
         </div>
     </div>
-    <table class="table">
+    {{--<table class="table">
         <thead>
             <tr>
                 <th>id</th>
@@ -64,7 +64,7 @@
                 @endforeach
             @endif
         </tbody>
-    </table>
+    </table>--}}
 </body>
 
 </html>
